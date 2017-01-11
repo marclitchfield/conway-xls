@@ -2,7 +2,7 @@
 
 Excel spreadsheet, pure formulas, no macros. 
 
-[Download it](conway.xlsx)
+[Download it](conway.xlsx?raw=true)
 
 ![Image](conway.png)
 
