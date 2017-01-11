@@ -2,6 +2,8 @@
 
 Excel spreadsheet, pure formulas, no macros. 
 
+[Download it](conway.xlsx)
+
 ![Image](conway.png)
 
 * Step 1: Set the 'Reset' flag from 1 to 0, and hold down F9 to run the game. 
